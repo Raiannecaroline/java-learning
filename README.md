@@ -300,3 +300,10 @@
 - [ ] Orientação Objetos - Record Class (285)
 - [ ] Orientação Objetos - Pattern Matching for instanceof (286)
 - [ ] Orientação Objetos -Acabou (287)
+
+<div align="center">
+  <h2> Canal que Acompanho as Aulas </h2>
+  
+  <a href="https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/playlist?list=pl62g310vn6nfisocc0h-c2infygwm8sww" height="30" width="40" /></a>
+</div>
+
